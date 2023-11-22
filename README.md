@@ -1,2 +1,3 @@
 # FirstProject
-This is y first Repository.
+This is my first Repository.
+Author- Nikita Prajapat
